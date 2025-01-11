@@ -27,4 +27,4 @@ Lista de **Tarefas**:
 - [ ] Aprender __*Python*__
 - [ ] Treinar __*Digitação*__
 
-[Acesse meu GitHub](https://GuilhermeSilvaRocha.github.io)
+[Acesse meu GitHub](https://github.com/GuilhermeSilvaRocha)
