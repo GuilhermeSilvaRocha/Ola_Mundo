@@ -27,4 +27,20 @@ Lista de **Tarefas**:
 - [ ] Aprender __*Python*__
 - [ ] Treinar __*Digitação*__
 
+***
+Tabela:
+Num | Nome | Nota
+--- | --- | ---
+1 | Guilherme | 8,5
+2 | Jamal | 9,0
+3 | Jeremias | 7,3
+***
+Emojis se usa colocando dois pontos ':'
+
+Olá pequeno Gafanhoto 🖖
+
+**Para saber onde tem os emojis, basta entrar no GitHub da [Ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)**
+
+**Também pode acessar mais emojis pelo site do [EmojiPedia](https://emojipedia.org/)**
+
 [Acesse meu GitHub](https://github.com/GuilhermeSilvaRocha)
